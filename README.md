@@ -3,7 +3,7 @@
 Bem-vindo ao Gerenciador de Certificados DIO! Este projeto, oferece a você uma solução sofisticada para simplificar o gerenciamento e a organização de seus certificados da DIO Innovation One. Com base na eficiente plataforma Google Apps Script, este código inteligente automatiza o processo de captura, download e armazenamento de certificados diretamente em sua conta Google Drive. Coloque um fim na busca por emails e links perdidos. Experimente o Gerenciador de Certificados DIO e traga ordem e praticidade para o seu registro de conquistas.
 
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lI3IvUamE-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    [![Watch the video]]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/embed/lI3IvUamE-M))
 </div>
 
 ## Instruções de Uso com CLASP
