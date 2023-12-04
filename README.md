@@ -17,7 +17,7 @@ Siga estas etapas para configurar e executar o projeto usando o CLASP:
 2. **Clone o Repositório:** Clone este repositório para sua máquina local:
 
     ```
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    https://github.com/rmottanet/Gerenciador_de_Certificados_DIO.git
     ```
 
 3. **Faça Login:** No diretório do projeto, faça login na sua conta Google:
